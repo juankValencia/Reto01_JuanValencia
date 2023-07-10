@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/RETO_01/Reto01.unity
+    guid: d0cbdfb446b7de74ab4bc45486bee5b6
+  - enabled: 1
     path: Assets/RETO_01/Nivel1.unity
     guid: f1d29e11ca362be40a1b2a004c9157ad
   - enabled: 1
